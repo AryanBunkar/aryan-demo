@@ -2,5 +2,5 @@
 this is my first repository
 
 creator - Aryan Bunkar 
-manager - Tanmay bhai
+manager - Tanmay bhai from paroli
 
